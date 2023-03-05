@@ -43,6 +43,7 @@ main {
     backdrop-filter: blur(2rem);
     display: flex;
     zoom: 67%;
+    flex-wrap: wrap;
 }
 
 .circle1,
